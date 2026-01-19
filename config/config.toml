@@ -1,0 +1,12 @@
+[project]
+logopath = "project_logo.png"
+description = "shows how to add a data logger to a RBS"
+
+[project.status]
+text = "example"
+color = "green"
+
+[automation]
+type = "manual"
+active = true
+mode = "manual"
