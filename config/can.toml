@@ -2,7 +2,7 @@
 hw_channel = 1
 hw_vendor = "pcan"
 alias = "DriveTrain"
-db = []
+db = ["./rbs_simple.dbc"]
 
 
 [CAN1.hw]
